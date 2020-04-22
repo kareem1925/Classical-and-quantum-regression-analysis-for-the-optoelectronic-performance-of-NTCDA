@@ -1,0 +1,1 @@
+# Classical-and-quantum-regression-analysis-for-the-optoelectronic-performance-of-NTCDA
