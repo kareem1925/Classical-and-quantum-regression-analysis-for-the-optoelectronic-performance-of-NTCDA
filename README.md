@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/kareem1925/Classical-and-quantum-regression-analysis-for-the-optoelectronic-performance-of-NTCDA/blob/master/fig/material.png" width=450px>   
 
-# Classical-and-quantum-regression-analysis-for-the-optoelectronic-performance-of-NTCDA
+# Classical and quantum regression analysis for the optoelectronic performance of NTCDA
 
 
 ## Dataset Visualization
