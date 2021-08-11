@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kareem1925/Classical-and-quantum-regression-analysis-for-the-optoelectronic-performance-of-NTCDA/blob/master/fig/material.png" width=450px>   
+ <img align="right" src="https://github.com/kareem1925/Classical-and-quantum-regression-analysis-for-the-optoelectronic-performance-of-NTCDA/blob/master/fig/material.png" width=450px>   
 
 # Classical and quantum regression analysis for the optoelectronic performance of NTCDA
 
@@ -45,5 +45,11 @@ If you extend or use this work, please cite the [paper][paper] where it was intr
 [paper]: https://arxiv.org/abs/2004.01257
 
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">This research is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
 
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
