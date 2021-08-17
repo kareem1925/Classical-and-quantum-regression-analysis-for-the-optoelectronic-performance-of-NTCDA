@@ -31,18 +31,22 @@ pip install pennylane==0.10.0 strawberryfields==0.14.0 pennylane-sf==0.9.0 tenso
 Ahmed M. El-Mahalawy, Kareem H. El-Safty
 
 ## How to Cite
-If you extend or use this work, please cite the [paper][paper] where it was introduced:
+If you extend, use this work or the dataset, please cite the [paper][paper] where it was introduced:
 
 ```
-@article{el2020classical,
-  title={Classical and quantum regression analysis for the optoelectronic performance of NTCDA/p-Si UV photodiode},
-  author={El-Mahalawy, Ahmed M and El-Safty, Kareem H},
-  journal={arXiv preprint arXiv:2004.01257},
-  year={2020}
+@article{ELMAHALAWY2021167793,
+title = {Classical and quantum regression analysis for the optoelectronic performance of NTCDA/p-Si UV photodiode},
+journal = {Optik},
+pages = {167793},
+year = {2021},
+issn = {0030-4026},
+doi = {https://doi.org/10.1016/j.ijleo.2021.167793},
+url = {https://www.sciencedirect.com/science/article/pii/S0030402621013826},
+author = {Ahmed M. El-Mahalawy and Kareem H. El-Safty}
 }
 ```
 
-[paper]: https://arxiv.org/abs/2004.01257
+[paper]: https://doi.org/10.1016/j.ijleo.2021.167793
 
 ## License
 This work is licensed under a
